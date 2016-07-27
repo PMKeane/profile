@@ -7,9 +7,9 @@ h1,h2,h3,p {
 }
 
 .profile {
-  height:100px;
-  width:100px;
-  border-radius: 50%;
+  height:200px;
+  width:200px;
+  border-radius: 20%;
 }
 
 h1{
@@ -26,12 +26,12 @@ h1{
  }
 
 table img {
-  height: 100px;
-  width: 100px;
+  height: 300px;
+  width: 300px;
 }
 
 .container {
-  width: 500px;   /* Set width */
+  width: 900px;   /* Set width */
   margin: 0 auto; /* Automatically set left/right margins */
 }
 
